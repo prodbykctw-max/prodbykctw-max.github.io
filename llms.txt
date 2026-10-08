@@ -1,0 +1,6 @@
+# prodbykctw-max.github.io
+
+> Web projects by KCTW. The main reference work here is Divine Origins, a comparative theology library.
+
+## Sites
+- [Divine Origins](https://prodbykctw-max.github.io/divine-origins/): comparative theology library with a Source Map of creator gods across traditions. Full summary: [llms.txt](https://prodbykctw-max.github.io/divine-origins/llms.txt)
