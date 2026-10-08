@@ -1,6 +1,18 @@
 # prodbykctw-max.github.io
 
-> Web projects by KCTW. The main reference work here is Divine Origins, a comparative theology library.
+> Web games, apps and reference projects by KCTW (Melvin D. Brown III), co-founder and lead developer of RARE Agency. The main reference work here is Divine Origins, a comparative theology library.
+
+## Pages
+- [Projects](https://prodbykctw-max.github.io/): every project on this site
+- [About KCTW](https://prodbykctw-max.github.io/about/): who builds these projects
+- [Contact](https://prodbykctw-max.github.io/contact/): email and project inquiries
+- [Privacy](https://prodbykctw-max.github.io/privacy/): no accounts, no cookies, no analytics
 
 ## Sites
 - [Divine Origins](https://prodbykctw-max.github.io/divine-origins/): comparative theology library with a Source Map of creator gods across traditions. Full summary: [llms.txt](https://prodbykctw-max.github.io/divine-origins/llms.txt)
+- [CREASE](https://prodbykctw-max.github.io/crease-iphone-duo/): air hockey for the iPhone Duo
+- [Will Hill: Player One](https://prodbykctw-max.github.io/will-hill-player-one-game/): Atlanta runner game
+- [Jandé: Once Upon A Time](https://prodbykctw-max.github.io/once-upon-a-time/): browser game for Jandé's song
+- [Lala Luna Land](https://prodbykctw-max.github.io/LaLa-Luna-Land-Game/): 3D island adventure
+- [Corner Store Dash](https://prodbykctw-max.github.io/EBT-PRESENTS-CORNER-STORE-DASH/): EBT browser game
+- [MACRO](https://prodbykctw-max.github.io/macro-app/): protein and meal-planning tool
