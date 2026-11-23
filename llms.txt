@@ -12,7 +12,7 @@
 - [Divine Origins](https://prodbykctw-max.github.io/divine-origins/): comparative theology library with a Source Map of creator gods across traditions. Full summary: [llms.txt](https://prodbykctw-max.github.io/divine-origins/llms.txt)
 - [CREASE](https://prodbykctw-max.github.io/crease-iphone-duo/): air hockey for the iPhone Duo
 - [Will Hill: Player One](https://prodbykctw-max.github.io/will-hill-player-one-game/): Atlanta runner game
-- [Jandé: Once Upon A Time](https://prodbykctw-max.github.io/once-upon-a-time/): browser game for Jandé's song
+- [Jandé: Once Upon A Time](https://a-time.pages.dev/): browser game for Jandé's song
 - [Lala Luna Land](https://prodbykctw-max.github.io/LaLa-Luna-Land-Game/): 3D island adventure
 - [Corner Store Dash](https://prodbykctw-max.github.io/EBT-PRESENTS-CORNER-STORE-DASH/): EBT browser game
 - [MACRO](https://prodbykctw-max.github.io/macro-app/): protein and meal-planning tool
